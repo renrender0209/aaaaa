@@ -1,0 +1,18 @@
+[0812/122656.534:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[0812/140044.235:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[0814/192348.430:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[0815/120308.826:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: パイプは終了しました。 (0x6D)
+[0815/120308.834:ERROR:http_transport_win.cc(178)] WinHttpCrackUrl: この操作を正しく終了しました。 (0x0)
+[0815/120314.548:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[0815/120337.341:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\81904\AppData\Local\rmmz-game\User Data\Crashpad\reports\50cf2ed1-9bcf-46c1-8189-c1051703ba4e.dmp: プロセスはファイルにアクセスできません。別のプロセスが使用中です。 (0x20)
+[0819/130646.097:ERROR:settings.cc(325)] Settings version is not 1
+[0819/144832.342:ERROR:settings.cc(325)] Settings version is not 1
+[0819/152301.010:ERROR:settings.cc(325)] Settings version is not 1
+[0827/195156.179:ERROR:http_transport_win.cc(178)] WinHttpCrackUrl: この操作を正しく終了しました。 (0x0)
+[0827/195157.247:ERROR:http_transport_win.cc(178)] WinHttpCrackUrl: この操作を正しく終了しました。 (0x0)
+[0828/220135.156:ERROR:main_dll_loader_win.cc(125)] Failed to load NW DLL from C:\Program Files (x86)\Steam\steamapps\common\RPG Maker MZ\nwjs-win\nw.dll: ページング ファイルが小さすぎるため、この操作を完了できません。 (0x5AF)
+[0828/220221.336:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\81904\AppData\Local\rmmz-game\User Data\Crashpad\reports\ce845513-ca87-4654-bcfb-04e8e3abba0b.dmp: プロセスはファイルにアクセスできません。別のプロセスが使用中です。 (0x20)
+[1228/020910.062:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1228/020931.021:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1228/020946.050:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
+[1228/021101.024:ERROR:registration_protocol_win.cc(103)] CreateFile: 指定されたファイルが見つかりません。 (0x2)
