@@ -11,18 +11,6 @@
         <title>アクアリウムは踊らない</title>
     </head>
     <body style="background-color: black">
-        <script type="text/javascript">
-            window.require = function(module) {
-                console.warn("require('" + module + "') is not supported in browser.");
-                return {};
-            };
-            window.process = window.process || {
-                platform: 'browser',
-                versions: {},
-                env: {}
-            };
-            window.module = window.module || { exports: {} };
-        </script>
-        <script type="text/javascript" src="js/main.js"></script>
+        <script type="text/javascript" src="js/plugins/FOSSIL.js"></script>
     </body>
 </html>
